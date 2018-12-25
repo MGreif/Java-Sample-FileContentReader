@@ -10,4 +10,4 @@ FileReader umschreiben in ein BufferedReader
 
 ## Bilder
 ![pic1](img/Bild1.png)
-![pic1](img/Bild2.png)
+![pic2](img/Bild2.png)
