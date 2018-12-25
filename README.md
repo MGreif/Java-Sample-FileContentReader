@@ -9,5 +9,5 @@ Wenn man eine der aufgelisteten Datein anklickt wird deren Inhalt in dem rechten
 FileReader umschreiben in ein BufferedReader
 
 ## Bilder
-![pic1](img/Bild1.png)
-![pic2](img/Bild2.png)
+![pic1](img/Bild1.PNG)
+![pic2](img/Bild2.PNG)
